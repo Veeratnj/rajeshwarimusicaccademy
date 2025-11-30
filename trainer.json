@@ -1,0 +1,74 @@
+{
+    "founder": {
+        "name": "Rajeshwari",
+        "nickname": "Vocal guru .isaikalai chemmal, kalai chakkara mamani Ms.R.Rajarajeshwari",
+        "Qualification": "B.A.,M.A, carnatic music",
+        "Specialization": "Vocal Guru & Founder",
+        "img_path": "images/trainers/FOUNDER.jpeg",
+        "achievements": [
+            "Isaikalai chemmal, kalai chakkara mamani",
+            "30+ years of teaching experience",
+            "Trained over 500+ students",
+            "Arangetram conductor for 100+ students",
+            "Recipient of multiple state-level awards",
+            "Regular performer at prestigious cultural events"
+        ]
+    },
+    "trainers": [
+        {
+            "trainer_name": "R.Srinivasan",
+            "nickname": "",
+            "Qualification": "MA music., DMT",
+            "Specialization": "Bharathanatyam",
+            "img_path": "images/trainers/t1.jpeg",
+            "instagram": "#"
+        },
+        {
+            "trainer_name": "R.Srinivasan",
+            "nickname": "",
+            "Qualification": "MA music., DMT",
+            "Specialization": "Violin",
+            "img_path": "images/trainers/t2.jpeg",
+            "instagram": "#"
+        },
+        {
+            "trainer_name": "S. Kamalakkannan",
+            "nickname": "",
+            "Qualification": "JMA (English), MA (Music), DMT",
+            "Specialization": "Violin",
+            "img_path": "images/trainers/t3.jpeg",
+            "instagram": "#"
+        },
+        {
+            "trainer_name": "J Simon sweetraj",
+            "nickname": "",
+            "Qualification": "MA music and DMT",
+            "Specialization": "Veenai",
+            "img_path": "images/trainers/t4.jpeg",
+            "instagram": "#"
+        }
+    ],
+    "gallery": [
+        {
+            "img_path": "images/troops/t1.jpeg"
+        },
+        {
+            "img_path": "images/troops/t2.jpeg"
+        },
+        {
+            "img_path": "images/troops/t3.jpeg"
+        },
+        {
+            "img_path": "images/troops/t4.jpeg"
+        },
+        {
+            "img_path": "images/troops/t5.jpeg"
+        },
+        {
+            "img_path": "images/troops/t6.jpeg"
+        },
+        {
+            "img_path": "images/troops/t7.jpeg"
+        }
+    ]
+}
